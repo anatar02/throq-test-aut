@@ -1,0 +1,7 @@
+{
+  "environments": {
+    "qamb": "http://localhost/user-auth/login",
+    "local": "http://localhost/user-auth/login",
+    "dev": "http://192.168.1.195/user-auth/login"
+  }
+}
